@@ -1,0 +1,6 @@
+{
+  "name": "Remix Remix: BM VB Cũ",
+  "description": "Ứng dụng bóc tách thông tin văn bản hành chính từ file PDF và hình ảnh (giữ nguyên tiếng Pháp) sử dụng AI, hỗ trợ xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
